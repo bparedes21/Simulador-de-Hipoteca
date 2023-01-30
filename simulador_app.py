@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 from calc_hipoteca import * 
-
+#reto 2
 st.set_page_config(
     page_title="Calcular interes: ",
     page_icon="✅",
