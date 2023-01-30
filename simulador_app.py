@@ -34,7 +34,7 @@ if(option!='Ninguna'):
         #col1.subheader("Monto a solicitar")
         monto_hipoteca = st.slider('Cual va a ser el monto de la hipoteca?',1000,  24850000, 1000)
         monto_hipoteca_moneda=float(monto_hipoteca)
-        st.write(':green[monto_hipoteca_moneda:]', monto_hipoteca_moneda)
+        #st.write(':green[monto_hipoteca_moneda:]', monto_hipoteca_moneda)
 
         monto_hipoteca_moneda_str='{:,.0f}'.format(monto_hipoteca)
         st.markdown("<h2  div style='text-align: center;background-color: black;color:white;'>"+"$"+monto_hipoteca_moneda_str+"</div>", unsafe_allow_html=True)
