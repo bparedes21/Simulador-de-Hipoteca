@@ -21,7 +21,7 @@ reto 2  simulador-DEPLOY---> https://bparedes21-curso-de-30-retos--streamlit-app
 | 1 | [About](#About)  |
 | 2 | [Setup](#setup)  | 
 | 3 | [Libraries](#Libraries) |
-| 4 | [Data-Set Primer reto](#Data-Set Primer reto) |
+| 4 | [Retos](#Retos) |
 
 
 </div>
@@ -70,7 +70,7 @@ Retos que debo realizar en Python poniendo a prueba mis conocimientos, realizand
 
 <div align = "center">
     
-## Data-Set Primer reto
+## Retos
 
 | Name            | Link |
 |---------------- |---------------|
