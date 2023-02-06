@@ -8,7 +8,7 @@ reto 2  simulador-DEPLOY---> https://bparedes21-curso-de-30-retos--streamlit-app
 
 <div align = "center">
 
-# [30 retos de Openbootcamp](#)
+# [30 retos de OpenBootcamp](#)
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -72,10 +72,10 @@ Retos que debo realizar en Python poniendo a prueba mis conocimientos, realizand
     
 ## Data-Set Primer reto
 
-| Name           | Link |
-|----------------|---------------|
-|  Kaggle   | [mockaroo](https://www.mockaroo.com/)] |
-  
+| Name            | Link |
+|---------------- |---------------|
+|  Reto 1   	  | [mockaroo](https://www.mockaroo.com/) |
+| Reto 2 Simulador|[Streamlit] (https://bparedes21-curso-de-30-retos--streamlit-app-8w3elc.streamlit.app/)| 
 </div>
 
 <div align = "center">
