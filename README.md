@@ -42,7 +42,7 @@ Retos que debo realizar en Python poniendo a prueba mis conocimientos, realizand
 
 ## Setup
 
-- Cada reto tiene librerias y configuraciones diferentes. En general esto es lo que requiere voy enumerando en orden segun los retos realizados
+- Cada reto tiene librerias y configuraciones diferentes. Lista de librerias utilizadas en orden segun los retos realizados
 
 ```js      
 !pip install pandas
