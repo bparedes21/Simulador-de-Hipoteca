@@ -9,7 +9,7 @@
 
 <H2> :point_down: Apreta aca para ir a ver! :dollar:</H2>
 
-:city_sunrise: [Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) - Sistema de amortización francés | 
+:city_sunrise: [Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) - Sistema de amortización francés 
 </div>
 
 
@@ -20,6 +20,8 @@
 # [Simulador de Hipoteca](#)
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+:calendar:
 
 ```js      
 El sistema de amortización francés es aquel en el que las cuotas que pagas 
