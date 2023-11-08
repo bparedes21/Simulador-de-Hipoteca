@@ -48,7 +48,7 @@ generalmente de un año
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## Directory Structure :wrench:
+## Directory Structure 
 
 ```js
 ├── calc_hipoteca.py (Funciones)
@@ -90,7 +90,7 @@ En resumen del credito podes ver:
 
 
 
-## Setup
+## Setup :wrench:
 
 - Cada reto tiene librerias y configuraciones diferentes. Lista de librerias utilizadas en orden segun los retos realizados
 
