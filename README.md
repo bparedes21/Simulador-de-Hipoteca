@@ -59,9 +59,11 @@ generalmente de un año
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<div align = "center">
+
   
 ## About :pencil2:
+
+<div align = "center">
 
 Para realizar el calculo tome como suposicion que al pedir prestamo hipotecario el banco o entidad financiera   financia hasta el 80% del valor de la propiedad. Esto significa que necesitas disponer de una cantidad igual o mayor al 20% del valor del inmueble. 
 
