@@ -54,19 +54,24 @@ generalmente de un año
 ## Directory Structure
 
 ```js
-├── 30 retos
-│   ├── Reto1.py
-│   ├── streamlit_app.py
-│ 
-└── README.md
+├── calc_hipoteca.py (Funciones)
+├── streamlit_app.py (App)
+
+
 ```
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
 ## About
 
-Retos que debo realizar en Python poniendo a prueba mis conocimientos, realizando diferentes ejercicios.
+Para realizar el calculo tome como suposicion que al pedir prestamo hipotecario el banco o entidad financiera   financia hasta el 80% del valor de la propiedad. Esto significa que necesitas disponer de una cantidad igual o mayor al 20% del valor del inmueble. 
 
+| Años | Cuotas |  Interes |
+| --- | --- | --- |
+| 10     | 120 | 15% |
+| 15     | 180 | 13% |
+| 20     | 240 | 10% | 
+ 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## Setup
