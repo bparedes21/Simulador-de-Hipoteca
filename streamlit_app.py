@@ -49,7 +49,7 @@ if(option!='Ninguna'):
         st.markdown("<h2  div style='text-align: center;background-color: black;color:white;'>"+"$"+monto_hipoteca_moneda_strreplace+"</div>", unsafe_allow_html=True)
         st.markdown("<h5  div style='text-align: left;background-color: white;color:black;'>"+"- Presione para ver la tabla"+"</div>", unsafe_allow_html=True)
         
-        df_hipoteca,sum_Cuota_fija=Calcular_hipoteca_amortizacion_metodo_frances(option,option1,monto_hipoteca_moneda)
+        df_hipoteca,sum_Cuota_fija,CUOTA_F=Calcular_hipoteca_amortizacion_metodo_frances(option,option1,monto_hipoteca_moneda)
         agree = st.checkbox('') 
         #mostrar tabla
         if agree:
@@ -69,6 +69,13 @@ if(option!='Ninguna'):
        
         no_financiado_strreplace=formato_miles(no_financiado_str)
         
+        sum_Cuota_fija_str='{:.0f}'.format(sum_Cuota_fija)
+        Sum_num_float_strreplace=formato_miles(sum_Cuota_fija_str)
+
+        CUOTA_F_STR='{:.0f}'.format(CUOTA_F)
+        CUOTA_F_STR_FLOAT=formato_miles(CUOTA_F_STR)
+        
+
         st.markdown("<h4  div style='text-align: center;background-color: white;color:black;'>"+"Resumen del crédito: "+"</div>", unsafe_allow_html=True)
         st.markdown("<h5  div style='text-align: left;background-color: GreenYellow;color:black;'>"+"VALOR DEL INMUEBLE: "+"</div>", unsafe_allow_html=True)
         st.markdown("<h2  div style='text-align: center;background-color: Cyan	;color:black;'>"+"&#127971;100% &#128175;$"+valor_inmueble_strreplace+"</div>", unsafe_allow_html=True)
@@ -80,11 +87,12 @@ if(option!='Ninguna'):
         st.markdown("<h2  div style='text-align: center;background-color: Cyan	;color:black;'>"+"&#128092; 20% &#128176;$"+no_financiado_strreplace+"</div>", unsafe_allow_html=True)
 
         
-        st.markdown("<h5  div style='text-align: left;background-color: GreenYellow;color:black;'>"+"TERMINA PAGANDO: "+"</div>", unsafe_allow_html=True)
+        st.markdown("<h5  div style='text-align: left;background-color: GreenYellow;color:black;'>"+"TERMINAS PAGANDO: "+"</div>", unsafe_allow_html=True)
         
-        sum_Cuota_fija_str='{:.0f}'.format(sum_Cuota_fija)
-        Sum_num_float_strreplace=formato_miles(sum_Cuota_fija_str)
         
         st.markdown("<h2  div style='text-align: center;background-color: Cyan	;color:black;'>"+"$ "+Sum_num_float_strreplace+"</div>", unsafe_allow_html=True)
         
+                st.markdown("<h5  div style='text-align: left;background-color: GreenYellow;color:black;'>"+"VALOR DE LA CUOTA: "+"</div>", unsafe_allow_html=True)
+        st.markdown("<h2  div style='text-align: center;background-color: Cyan	;color:black;'>"+"$ "+CUOTA_F_STR_FLOAT+"</div>", unsafe_allow_html=True)
+
         

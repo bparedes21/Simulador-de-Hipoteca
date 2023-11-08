@@ -79,7 +79,7 @@ def Calcular_hipoteca_amortizacion_metodo_frances(opcion,opcion_periodo,monto_hi
     total_credito=monto_hipoteca_moneda
     
     periodo=calcular_capital (interes_hipoteca_periodo,monto_hipoteca_moneda,periodo_tiempo)
-
+    CUOTA_F=round(periodo,2)
     for i in numero_de_cuotas_list:
 
             
@@ -93,7 +93,7 @@ def Calcular_hipoteca_amortizacion_metodo_frances(opcion,opcion_periodo,monto_hi
         lista_cuota_sin_interes.append(round(cuota_sin_interes,2))
             
         
-        columnas =["Mes","Cuota_fija ($)","Capital ($)","Intereses ($)","Saldo_a_pagar"]
-        df_hipoteca=pd.DataFrame(list(zip(numero_de_cuotas_list,lista_cuota_con_interes,lista_cuota_sin_interes, lista_Interes_periodo,lista_total_faltante)),columns=columnas)
-        sum_Cuota_fija=df_hipoteca["Cuota_fija ($)"].sum()
-    return df_hipoteca ,sum_Cuota_fija
+    columnas =["Mes","Cuota_fija ($)","Capital ($)","Intereses ($)","Saldo_a_pagar"]
+    df_hipoteca=pd.DataFrame(list(zip(numero_de_cuotas_list,lista_cuota_con_interes,lista_cuota_sin_interes, lista_Interes_periodo,lista_total_faltante)),columns=columnas)
+    sum_Cuota_fija=df_hipoteca["Cuota_fija ($)"].sum()
+    return df_hipoteca ,sum_Cuota_fija,CUOTA_F
