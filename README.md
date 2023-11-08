@@ -8,7 +8,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="20%"></a>
 
 
-<H2 style="color:purple;" href="">:point_down:  Apreta aca para ir a ver! </H2>
+<H2 font color="red">:point_down:  Apreta aca para ir a ver! </H2>
 
 [:city_sunrise: Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) - Gryffindor | Hufflepuff | Ravenclaw | Slytherin
 </div>
