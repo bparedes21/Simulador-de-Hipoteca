@@ -92,7 +92,7 @@ if(option!='Ninguna'):
         
         st.markdown("<h2  div style='text-align: center;background-color: Cyan	;color:black;'>"+"$ "+Sum_num_float_strreplace+"</div>", unsafe_allow_html=True)
         
-                st.markdown("<h5  div style='text-align: left;background-color: GreenYellow;color:black;'>"+"VALOR DE LA CUOTA: "+"</div>", unsafe_allow_html=True)
+        st.markdown("<h5  div style='text-align: left;background-color: GreenYellow;color:black;'>"+"VALOR DE LA CUOTA: "+"</div>", unsafe_allow_html=True)
         st.markdown("<h2  div style='text-align: center;background-color: Cyan	;color:black;'>"+"$ "+CUOTA_F_STR_FLOAT+"</div>", unsafe_allow_html=True)
 
         
