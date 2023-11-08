@@ -69,10 +69,10 @@ if(option!='Ninguna'):
        
         no_financiado_strreplace=formato_miles(no_financiado_str)
         
-        sum_Cuota_fija_str='{:.0f}'.format(sum_Cuota_fija)
+        sum_Cuota_fija_str='{:,.0f}'.format(sum_Cuota_fija)
         Sum_num_float_strreplace=formato_miles(str(sum_Cuota_fija_str))
 
-        CUOTA_F_STR='{:.0f}'.format(CUOTA_F)
+        CUOTA_F_STR='{:,.0f}'.format(CUOTA_F)
         CUOTA_F_STR_FLOAT=formato_miles(CUOTA_F_STR)
         
 
