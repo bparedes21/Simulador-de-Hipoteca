@@ -74,6 +74,7 @@ Para realizar el calculo tome como suposicion que al pedir prestamo hipotecario 
 | 15     | 180 | 13% |
 | 20     | 240 | 10% | 
 
+</div>
 
 En resumen del credito podes ver:
 
@@ -88,7 +89,7 @@ En resumen del credito podes ver:
  
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-</div>
+
 
 ## Setup
 
