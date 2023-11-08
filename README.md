@@ -7,14 +7,10 @@
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="20%"></a>
 
+<H2> :point_down: Apreta aca para ir a ver! :dollar:</H2>
 
-
-<H2> :point_down: Apreta aca para ir a ver! </H2>
-
-:city_sunrise: [Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) -  |  |  | 
+:city_sunrise: [Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) - Sistema de amortización francés | 
 </div>
-
-
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -24,6 +20,12 @@
 # [Simulador de Hipoteca](#)
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+```js      
+El sistema de amortización francés es aquel en el que las cuotas que pagas son constantes o fijas, es decir, todos los meses vas a pagar lo mismo hasta que acabes de pagar el préstamo hipotecario. Además, al principio del préstamo tiene un mayor pago de intereses. Con este sistema siempre pagaremos una cuota fija, a excepción de si tenemos una hipoteca a tipo variable o mixto, que cambiará con la revisión del Euribor de cada periodo, generalmente de un año 
+
+```
+:date:
 
 ## Table of Contents
 
