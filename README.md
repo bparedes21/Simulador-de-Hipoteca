@@ -9,14 +9,9 @@
 
 
 
-<H2>
-:point_down: 
-```diff 
-- Apreta aca para ir a ver! 
-```
-</H2>
+<H2> :point_down: Apreta aca para ir a ver! </H2>
 
-[:city_sunrise: Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) - Gryffindor | Hufflepuff | Ravenclaw | Slytherin
+:city_sunrise: [Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) -  |  |  | 
 </div>
 
 

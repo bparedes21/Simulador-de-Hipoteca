@@ -40,9 +40,8 @@ if(option!='Ninguna'):
     with col1:
 
         
-        st.markdown("<h5  div style='text-align: left;background-color: white;color:black;'>"+"3- Seleccionar el monto de la hipoteca"+"</div>", unsafe_allow_html=True)
-        monto_hipoteca = st.slider('',1000,  24850000, 1000)
-        monto_hipoteca_moneda=float(monto_hipoteca)
+        number = st.number_input('Insert a number')
+        monto_hipoteca_moneda=float(number)
        
         monto_hipoteca_moneda_str='{:,.0f}'.format(monto_hipoteca_moneda)
         monto_hipoteca_moneda_strreplace=formato_miles(monto_hipoteca_moneda_str)
