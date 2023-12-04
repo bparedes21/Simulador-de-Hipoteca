@@ -3,7 +3,7 @@
 <div align = "center">
 <a href="https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/"><img src="/img/credito-hipotecario.svg" width="200 px"></a>
 
-# [:house: Simulador de Hipoteca :house_with_garden:](#)
+# [:house: Simulador de Hipoteca ](#) :house_with_garden:
   
 </div>
 
@@ -11,25 +11,22 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="20%"></a>
 
-<H2> :point_down: Apreta aca para ir a ver! :dollar:</H2>
+  <H2>Apreta aca  para ir a ver! :dollar:</H2>  :point_down:
 
 :city_sunrise: [Calcular Hipoteca](https://simulador-de-hipoteca-vwwz4hkgjoetdnwu6zednn.streamlit.app/) - Sistema de amortización francés 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-******************************************************************************
+*******************************************************************************
 
-```js      
-El sistema de amortización francés es aquel en el que las cuotas que pagas 
-son constantes o fijas, es decir, todos los meses vas a pagar lo mismo 
-hasta que acabes de pagar el préstamo hipotecario. Además, al principio
-del préstamo tiene un mayor pago de intereses. Con este sistema siempre
-pagaremos una cuota fija, a excepción de si tenemos una hipoteca a tipo
-variable o mixto, que cambiará con la revisión del Euribor de cada periodo,
-generalmente de un año 
+## Características Clave del Sistema de Amortización Francés:
 
-```
-:date:
+- **Cuotas Constantes:** El prestatario paga una cuota fija durante toda la duración del préstamo, lo que facilita la planificación financiera.
+
+- **Mayor Pago de Intereses al Principio:** Inicialmente, una proporción significativa de la cuota se destina al pago de intereses, disminuyendo gradualmente a lo largo del tiempo.
+
+- **Adaptabilidad a Tipos de Interés Variables:** Aunque el sistema ofrece cuotas fijas, puede adaptarse a préstamos con tasas de interés variables o mixtas. :date:
+
 
 ******************************************************************************
 
@@ -65,7 +62,12 @@ generalmente de un año
 
 <div align = "center">
 
-Para realizar el calculo tome como suposicion que al pedir prestamo hipotecario el banco o entidad financiera   financia hasta el 80% del valor de la propiedad. Esto significa que necesitas disponer de una cantidad igual o mayor al 20% del valor del inmueble. 
+## Suposiciones para el Cálculo:
+
+Al realizar el cálculo del préstamo hipotecario, se ha considerado la siguiente suposición:
+
+- **Financiamiento hasta el 80% del Valor de la Propiedad:** Se asume que al solicitar un préstamo hipotecario, el banco o entidad financiera financia hasta el 80% del valor de la propiedad. En consecuencia, el prestatario debe disponer de 20% del valor del inmueble.
+
 
 | Años | Cuotas |  Interes |
 | --- | --- | --- |
