@@ -5,6 +5,8 @@
   
 # ¡Descubre el valor tu Futuro Hogar! 🏡💰
 ¡Tu nuevo hogar está a solo un clic de distancia!
+Bienvenido al Simulador de Hipoteca, tu herramienta personalizada para explorar y planificar el camino hacia la casa de tus sueños. Nuestro simulador utiliza el Sistema de Amortización Francés, una opción popular que te ofrece cuotas constantes y flexibilidad para adaptarse a las cambiantes tasas de interés.
+
 
 # :house:  [Simulador de Hipoteca ](#) :house_with_garden:
   
